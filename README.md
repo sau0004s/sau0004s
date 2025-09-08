@@ -39,7 +39,7 @@
 ### 📫 Connect with Me
 [![Twitter Badge](https://img.shields.io/badge/Twitter-@SankSaurabh-blue?style=flat&logo=twitter)](https://x.com/SankSaurabh)  
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Saurabh%20Sankhwar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saurabh-sankhwar-695821140/)  
-[![GitHub Badge](https://img.shields.io/badge/GitHub-Saurabh--Sankhwar-black?style=flat&logo=github)](https://github.com/Saurabh-Sankhwar)  
+[![GitHub Badge](https://img.shields.io/badge/GitHub-Saurabh--Sankhwar-black?style=flat&logo=github)](https://github.com/Sau0004s)  
 
 ---
 ✨ *“Committed to advancing security protocols in the rapidly evolving digital landscape.”*  
