@@ -23,9 +23,9 @@
 ---
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saurabh-Sankhwar&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sau0004s&show_icons=true&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Saurabh-Sankhwar&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=sau0004s&theme=dark)
 
 ---
 
