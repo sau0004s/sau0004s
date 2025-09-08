@@ -9,16 +9,16 @@
 ### 🛠 Tech & Tools I Work With
 - **Languages:** Solidity, Rust, Yul, JavaScript  
 - **Frameworks:** Foundry, Hardhat, Truffle, Anvil  
-- **Security Tools:** Slither, Echidna, Mythril, Tenderly, Surya  
+- **Security Tools:** Slither, Echidna, Mythril, Tenderly
 - **Other Skills:** EAS CLI, Ethereum Forensics, Smart Contract PoCs  
 
 ---
 
 ### 🏆 Bug Bounty & Audit Work
-- Active on **Immunefi, Cantina, HackenProof, Halborn**  
+- Active on **Immunefi, Cantina, HackenProof**  
 - Submitted critical vulnerabilities in protocols such as **Morpho, Lido, Silo, zkSync, Arcadia Finance**  
 - Built multiple **Foundry-based Proof-of-Concept exploits** for real-world vulnerabilities  
-- $500K+ bounties tracked and validated in Web3 security  
+
 
 ---
 
@@ -37,8 +37,8 @@
 ---
 
 ### 📫 Connect with Me
-[![Twitter Badge](https://img.shields.io/badge/Twitter-@mr_encryption-blue?style=flat&logo=twitter)](https://twitter.com/mr_encryption)  
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Saurabh%20Sankhwar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saurabh-sankhwar/)  
+[![Twitter Badge](https://img.shields.io/badge/Twitter-@mr_encryption-blue?style=flat&logo=twitter)](https://x.com/SankSaurabh)  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Saurabh%20Sankhwar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saurabh-sankhwar-695821140/)  
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Saurabh--Sankhwar-black?style=flat&logo=github)](https://github.com/Saurabh-Sankhwar)  
 
 ---
