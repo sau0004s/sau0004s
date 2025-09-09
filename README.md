@@ -16,7 +16,7 @@
 
 ### 🏆 Bug Bounty & Audit Work
 - Active on **Immunefi, Cantina, HackenProof**  
-- Submitted critical vulnerabilities in protocols such as **Morpho, Lido, Silo, zkSync, Arcadia Finance**  
+- Submitted critical vulnerabilities in protocols such as **Optimism, Injectuve, Belmy, Polygon, Arcadia Finance**  
 - Built multiple **Foundry-based Proof-of-Concept exploits** for real-world vulnerabilities  
 
 
