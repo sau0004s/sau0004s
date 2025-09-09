@@ -27,6 +27,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sau0004s&theme=dark)
 
+[🎓 JohnnyTime Certificate](https://johnnytime.xyz/sch-certificate/?id=614e2cc5fc86000cf5d8dcd9386659c6e0bc10ae38431f5b0fce6c365d3400ee)
+
 ---
 
 ### 🌱 Currently Exploring
